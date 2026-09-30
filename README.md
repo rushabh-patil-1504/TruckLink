@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TruckLink 🚛 — Smart Freight & Logistics Network
 
 **TruckLink** is a full-stack web-based logistics and freight management platform that connects truck drivers/owners with businesses and manufacturers needing freight transportation services across Gujarat and India.
@@ -75,3 +76,7 @@ npm run dev      # Starts Vite dev server on http://localhost:3000
 6. **Live Sync to Company**: Switch back to Company profile -> Open **Active Deliveries** to see the new checkpoint `Vadodara ✓` reflected live without reloading!
 7. **Complete & Pay**: Driver marks destination arrival -> Company opens **My Bookings** -> Clicks **Process Demo Payment** -> Submits a **5-Star Driver Review**.
 8. **Rating Updated**: Driver's average rating is automatically recalculated in MongoDB!
+=======
+# TrukLink
+A web-based freight booking platform connecting shippers with truck owners/drivers — featuring smart load-truck matching, real-time shipment tracking, and admin-managed verification. Built with Node.js, AngularJS, MongoDB, and React.,Express..
+>>>>>>> ccd142de1b42cc8cb5592a93534b4b4d757c100a
